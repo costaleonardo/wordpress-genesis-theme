@@ -12,5 +12,5 @@
  * @package Starter_Theme
  */
 
-// get_header();
+get_header();
 ?>
